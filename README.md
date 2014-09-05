@@ -1,4 +1,4 @@
-AdEditior
+AdEditor
 =========
 
-The Add Editort for Adresseavisa for the NTNU course kundestyrt prosjekt
+The Add Editor for Adresseavisa for the NTNU course kundestyrt prosjekt
